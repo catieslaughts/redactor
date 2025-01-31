@@ -2,7 +2,7 @@ import re
 
 #RELEVANT FILE NAMES
 input_file = "input_text.txt"
-output_file = "redacted_text.txt"
+output_file = "safe_text.txt"
 
 bad_words = "toredact.txt"
 
